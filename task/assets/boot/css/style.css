@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div.row{
+    margin-top: 10px;
+}
+.gride-cont{
+    background-color: #20c997;
+    padding: 15px;
+    color: aliceblue;
+}
+.gride-cont p{
+font-size: 14px;
+}
+.gride-cont a{
+    color: aliceblue;
+    }
+    .grid-img img{
+        padding: 10px;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 233px;
+    }
+    .footer{
+        background-color: #0b142c;
+        color: aliceblue;
+        padding: 30px;
+    }
+    .form-footer{
+        padding-left: 120px;
+    }
+    .form-footer>input[type="text"]{
+        width: 40%;
+        height: 40px;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border: none;
+        padding: 5px;
+    }
+    .form-footer>input[type="submit"]{
+        width: 30%;
+        height: 40px;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border: none;
+        padding: 5px;
+        background-color: #20c997;
+        color: aliceblue;
+        text-decoration: none;
+    }
+    .signup{
+        font-size: 20px;
+        float: right;
+    }
+    .footer-blog{
+        padding-left: 185px;
+    }
